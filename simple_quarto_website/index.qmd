@@ -58,8 +58,9 @@ flowchart LR
 
 
 </p>
-Cute stuff[^my_note]
-{{< video https://www.youtube.com/watch?v=IPZlYyXEIpQ width=“800” height=“500” >}} 
+Cool stuff[^my_note]
+
+![video](video.mp4){height=300}
 
 [^my_note]: some makabaka
 
