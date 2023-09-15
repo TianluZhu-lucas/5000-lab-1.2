@@ -1,0 +1,24 @@
+project:
+  type: website
+  
+website:
+  title: "simple_quarto_website"
+  
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.ipynb
+        text: About me 
+      - href: slides/slide.ipynb 
+        text: slide
+bibliography: reference.bib  
+
+format:
+  html:
+    theme: sandstone
+    toc: true
+
+
+
+

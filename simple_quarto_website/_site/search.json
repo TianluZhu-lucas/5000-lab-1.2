@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "slides/slide.html#u-gotta-lift-ya-know",
+    "href": "slides/slide.html#u-gotta-lift-ya-know",
+    "title": "Things I like to do",
+    "section": "U gotta lift ya know",
+    "text": "U gotta lift ya know\n\nbench press\nsquaaaaat"
+  },
+  {
+    "objectID": "slides/slide.html#music",
+    "href": "slides/slide.html#music",
+    "title": "Things I like to do",
+    "section": "Music",
+    "text": "Music\n\nTurn the music loud till someone knock on my door\nGet emo at night alone listening to Daniel Caesar (Tasatanattakool and Techapanupreeda 2018)\nGet happy again looking at my cat"
+  },
+  {
+    "objectID": "slides/slide.html#coding",
+    "href": "slides/slide.html#coding",
+    "title": "Things I like to do",
+    "section": "Coding",
+    "text": "Coding\n\nCode4life\nCode4GPA"
+  },
+  {
+    "objectID": "slides/slide.html#some-graph",
+    "href": "slides/slide.html#some-graph",
+    "title": "Things I like to do",
+    "section": "Some graph",
+    "text": "Some graph"
+  },
+  {
+    "objectID": "slides/slide.html#reference",
+    "href": "slides/slide.html#reference",
+    "title": "Things I like to do",
+    "section": "Reference",
+    "text": "Reference\n\n\n\n\n\n\nTasatanattakool, Pinyaphat, and Chian Techapanupreeda. 2018. “Blockchain: Challenges and Applications.” In 2018 International Conference on Information Networking (ICOIN), 473–75. https://doi.org/10.1109/ICOIN.2018.8343163."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Figure 1: scene"
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "simple_quarto_website",
+    "section": "1234",
+    "text": "1234\n\nThis is illustrated well by Figure 1.\n“this is second paragraph.” Ut dolore nulla aut illo inventore non nobis esse. Ut voluptatem eaque et laborum labore vel voluptatem dolor sit voluptas tempore aut omnis fugiat: \\[\nE=m c^2\n\\]"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nsome makabaka↩︎\nhttps://quarto.org/docs/authoring/tables.html\n:::↩︎"
+  }
+]

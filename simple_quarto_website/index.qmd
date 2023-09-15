@@ -1,0 +1,109 @@
+---
+title: "simple_quarto_website"
+html: 
+    toc: true
+---
+
+
+![scene](2023-09-12.png){#fig-elephant}
+
+
+
+# 123
+<h1>
+this is first paragraph 
+Lorem ipsum dolor sit amet. Hic maiores labore eos odit vitae rem nulla galisum. Non velit illo eum aliquid quam sed rerum libero est rerum maiores non odit temporibus est impedit laudantium et nobis harum. In consequatur eligendi et recusandae ipsum qui delectus ipsam.[@8343163]
+
+$f(k ; \lambda)=\operatorname{Pr}(X=k)=\frac{\lambda^k e^{-\lambda}}{k !}$
+
+</h1>
+
+
+## 1234
+<h2>
+This is illustrated well by @fig-elephant.
+
+"this is second paragraph." 
+Ut dolore nulla aut illo inventore non nobis esse. Ut voluptatem eaque et laborum labore vel voluptatem dolor sit voluptas tempore aut omnis fugiat:
+$$
+E=m c^2
+$$
+
+</h2>
+
+# 12345
+<h3>
+* Sed distinctio galisum sed sint libero rem facere sapiente sit consequatur autem. Ut sint ratione qui praesentium nesciunt et assumenda ipsum.
+* Cum corrupti dolor ab iusto nihil est amet doloribus aut Quis placeat et voluptatem dolores ea omnis illo. Sit deleniti esse et quidem iure et galisum alias et rerum tempora aut dolor unde id sapiente totam ad galisum vitae? 
+</h3>
+
+
+
+<body>
+
+
+
+
+```{mermaid}
+%%| code-fold: false
+flowchart LR
+  A[Hard edge] --> B(Round edge)
+  B --> C{Decision}
+  C --> D[Result one]
+  C --> E[Result two]
+```
+
+
+![](my_image.png){width=300} 
+
+
+</p>
+Cute stuff[^my_note]
+{{< video https://www.youtube.com/watch?v=IPZlYyXEIpQ width=“800” height=“500” >}} 
+
+[^my_note]: some makabaka
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+</body>
+
+
+
+
+::: {.column width="50%"}
+### Column1
+fruit| price
+-----|-----:
+apple|2.05
+pear|1.37
+orange|3.09 
+[^quote1]
+
+[^quote1]: https://quarto.org/docs/authoring/tables.html
+:::
+
+::: {.column width="50%"} 
+### Column2
+> words in column2 "This is a quote"
+:::
+
+::::
+
+
+
+
+
+::: {layout-ncol=2}
+### List One
+
+- Item A
+- Item B
+- Item C
+
+### List Two
+
+- Item X
+- Item Y
+- Item Z
+:::
+
